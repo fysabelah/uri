@@ -1,0 +1,7 @@
+#Visual Studio Code
+*.vscode/
+
+#Compilation files C
+*
+!*.c
+!Makefile
