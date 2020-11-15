@@ -6,7 +6,7 @@ I initiate this process a few years ago, but just now I decide to put on GitHub.
 I hope one day to solve all the problems of the plataform.
 
 ## Categories of problems
-* BEGINNER
+* [BEGINNER](https://github.com/fysabelah/URI/tree/master/Iniciante)
 * AD-HOC
 * STRINGS
 * DATA STRUCTURES AND LIBRARIES
