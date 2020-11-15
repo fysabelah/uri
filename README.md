@@ -7,7 +7,7 @@ I hope one day to solve all the problems of the plataform.
 
 ## Categories of problems
 * [BEGINNER](https://github.com/fysabelah/URI/tree/master/Iniciante)
-* AD-HOC
+* [AD-HOC](https://github.com/fysabelah/URI/tree/master/AD-HOC)
 * STRINGS
 * DATA STRUCTURES AND LIBRARIES
 * MATHEMATICS
